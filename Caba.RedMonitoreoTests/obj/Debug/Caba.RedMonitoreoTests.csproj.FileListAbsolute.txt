@@ -1,0 +1,11 @@
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\bin\Debug\Caba.RedMonitoreoTests.dll
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\bin\Debug\Caba.RedMonitoreoTests.pdb
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\bin\Debug\Caba.RedMonitoreo.dll
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\bin\Debug\nunit.framework.dll
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\bin\Debug\SharpTestsEx.dll
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\bin\Debug\Caba.RedMonitoreo.pdb
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\bin\Debug\nunit.framework.xml
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\bin\Debug\SharpTestsEx.pdb
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\obj\Debug\Caba.RedMonitoreoTests.csprojResolveAssemblyReference.cache
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\obj\Debug\Caba.RedMonitoreoTests.dll
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreoTests\obj\Debug\Caba.RedMonitoreoTests.pdb

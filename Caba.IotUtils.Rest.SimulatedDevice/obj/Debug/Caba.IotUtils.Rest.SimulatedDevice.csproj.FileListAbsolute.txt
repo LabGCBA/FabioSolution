@@ -1,0 +1,6 @@
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.IotUtils.Rest.SimulatedDevice\bin\Debug\RestDevice.exe.config
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.IotUtils.Rest.SimulatedDevice\bin\Debug\RestDevice.exe
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.IotUtils.Rest.SimulatedDevice\bin\Debug\RestDevice.pdb
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.IotUtils.Rest.SimulatedDevice\obj\Debug\RestDevice.exe
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.IotUtils.Rest.SimulatedDevice\obj\Debug\RestDevice.pdb
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.IotUtils.Rest.SimulatedDevice\obj\Debug\Caba.IotUtils.Rest.SimulatedDevice.csprojResolveAssemblyReference.cache

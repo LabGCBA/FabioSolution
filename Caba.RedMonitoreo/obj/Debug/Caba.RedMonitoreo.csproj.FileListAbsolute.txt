@@ -1,0 +1,10 @@
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\bin\Debug\Caba.RedMonitoreo.dll
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\bin\Debug\Caba.RedMonitoreo.pdb
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Debug\Caba.RedMonitoreo.csprojResolveAssemblyReference.cache
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Debug\Caba.RedMonitoreo.dll
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Debug\Caba.RedMonitoreo.pdb
+C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\bin\Debug\Caba.RedMonitoreo.dll
+C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\bin\Debug\Caba.RedMonitoreo.pdb
+C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Debug\Caba.RedMonitoreo.csprojResolveAssemblyReference.cache
+C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Debug\Caba.RedMonitoreo.dll
+C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Debug\Caba.RedMonitoreo.pdb

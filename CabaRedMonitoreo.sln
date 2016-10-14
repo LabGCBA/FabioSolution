@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bulk", "Bulk", "{577EA1A4-1555-4E5D-9D2B-9357082E53C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IoT", "IoT", "{F1286CED-D615-4821-9909-E9BB6DEEB722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.RedMonitoreo.BulkServer", "Caba.RedMonitoreo.BulkServer\Caba.RedMonitoreo.BulkServer.csproj", "{E22868EB-9D3D-448D-9DB8-AC531E2696A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{DBEAE3C4-D924-4C23-8D19-150C7424FD26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.RedMonitoreo", "Caba.RedMonitoreo\Caba.RedMonitoreo.csproj", "{F9A02C66-2977-435B-AF46-260AC0FCC759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.RedMonitoreoTests", "Caba.RedMonitoreoTests\Caba.RedMonitoreoTests.csproj", "{0D96016C-554A-4AD5-AB19-FC6107AC22B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.RedMonitoreo.BulkServerTests", "Caba.RedMonitoreo.BulkServerTests\Caba.RedMonitoreo.BulkServerTests.csproj", "{04D80C36-EAF4-4EA0-AECE-961DBB88D101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.RedMonitoreo.Azure", "Caba.RedMonitoreo.Azure\Caba.RedMonitoreo.Azure.csproj", "{9E58EA13-D5F2-41F0-A864-CD5C8CEF3E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.RedMonitoreo.BulkWorker", "Caba.RedMonitoreo.BulkWorker\Caba.RedMonitoreo.BulkWorker.csproj", "{775C3806-9E20-47EC-889A-49A26C521849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.IotUtils.SharedAccessSignatureGenerator", "Caba.IotUtils.SharedAccessSignatureGenerator\Caba.IotUtils.SharedAccessSignatureGenerator.csproj", "{FAD3394A-A09B-4ECD-BAA3-9F39A7A2C1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.IotUtils.Rest.SimulatedDevice", "Caba.IotUtils.Rest.SimulatedDevice\Caba.IotUtils.Rest.SimulatedDevice.csproj", "{D79B43DD-BD36-4CAE-B8C4-AD5E8CAF933F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.RedMonitoreo.StreamOfStatesPersister", "Caba.RedMonitoreo.StreamOfStatesPersister\Caba.RedMonitoreo.StreamOfStatesPersister.csproj", "{5C997632-F75B-4FDB-AACC-EC4A499A7B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caba.RedMonitoreo.BulkImporter", "Caba.RedMonitoreo.BulkImporter\Caba.RedMonitoreo.BulkImporter.csproj", "{9FEDC77E-298A-46BB-99F9-BEA7A9651019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22868EB-9D3D-448D-9DB8-AC531E2696A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22868EB-9D3D-448D-9DB8-AC531E2696A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22868EB-9D3D-448D-9DB8-AC531E2696A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22868EB-9D3D-448D-9DB8-AC531E2696A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A02C66-2977-435B-AF46-260AC0FCC759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A02C66-2977-435B-AF46-260AC0FCC759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A02C66-2977-435B-AF46-260AC0FCC759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A02C66-2977-435B-AF46-260AC0FCC759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D96016C-554A-4AD5-AB19-FC6107AC22B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D96016C-554A-4AD5-AB19-FC6107AC22B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D96016C-554A-4AD5-AB19-FC6107AC22B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D96016C-554A-4AD5-AB19-FC6107AC22B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D80C36-EAF4-4EA0-AECE-961DBB88D101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D80C36-EAF4-4EA0-AECE-961DBB88D101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D80C36-EAF4-4EA0-AECE-961DBB88D101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D80C36-EAF4-4EA0-AECE-961DBB88D101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E58EA13-D5F2-41F0-A864-CD5C8CEF3E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E58EA13-D5F2-41F0-A864-CD5C8CEF3E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E58EA13-D5F2-41F0-A864-CD5C8CEF3E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E58EA13-D5F2-41F0-A864-CD5C8CEF3E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775C3806-9E20-47EC-889A-49A26C521849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775C3806-9E20-47EC-889A-49A26C521849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775C3806-9E20-47EC-889A-49A26C521849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775C3806-9E20-47EC-889A-49A26C521849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD3394A-A09B-4ECD-BAA3-9F39A7A2C1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD3394A-A09B-4ECD-BAA3-9F39A7A2C1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD3394A-A09B-4ECD-BAA3-9F39A7A2C1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD3394A-A09B-4ECD-BAA3-9F39A7A2C1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79B43DD-BD36-4CAE-B8C4-AD5E8CAF933F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79B43DD-BD36-4CAE-B8C4-AD5E8CAF933F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79B43DD-BD36-4CAE-B8C4-AD5E8CAF933F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79B43DD-BD36-4CAE-B8C4-AD5E8CAF933F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C997632-F75B-4FDB-AACC-EC4A499A7B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C997632-F75B-4FDB-AACC-EC4A499A7B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C997632-F75B-4FDB-AACC-EC4A499A7B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C997632-F75B-4FDB-AACC-EC4A499A7B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEDC77E-298A-46BB-99F9-BEA7A9651019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEDC77E-298A-46BB-99F9-BEA7A9651019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEDC77E-298A-46BB-99F9-BEA7A9651019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEDC77E-298A-46BB-99F9-BEA7A9651019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E22868EB-9D3D-448D-9DB8-AC531E2696A1} = {577EA1A4-1555-4E5D-9D2B-9357082E53C3}
+		{F9A02C66-2977-435B-AF46-260AC0FCC759} = {DBEAE3C4-D924-4C23-8D19-150C7424FD26}
+		{0D96016C-554A-4AD5-AB19-FC6107AC22B4} = {DBEAE3C4-D924-4C23-8D19-150C7424FD26}
+		{04D80C36-EAF4-4EA0-AECE-961DBB88D101} = {577EA1A4-1555-4E5D-9D2B-9357082E53C3}
+		{9E58EA13-D5F2-41F0-A864-CD5C8CEF3E06} = {DBEAE3C4-D924-4C23-8D19-150C7424FD26}
+		{775C3806-9E20-47EC-889A-49A26C521849} = {577EA1A4-1555-4E5D-9D2B-9357082E53C3}
+		{FAD3394A-A09B-4ECD-BAA3-9F39A7A2C1AB} = {F1286CED-D615-4821-9909-E9BB6DEEB722}
+		{D79B43DD-BD36-4CAE-B8C4-AD5E8CAF933F} = {F1286CED-D615-4821-9909-E9BB6DEEB722}
+		{5C997632-F75B-4FDB-AACC-EC4A499A7B46} = {F1286CED-D615-4821-9909-E9BB6DEEB722}
+		{9FEDC77E-298A-46BB-99F9-BEA7A9651019} = {577EA1A4-1555-4E5D-9D2B-9357082E53C3}
+	EndGlobalSection
+EndGlobal

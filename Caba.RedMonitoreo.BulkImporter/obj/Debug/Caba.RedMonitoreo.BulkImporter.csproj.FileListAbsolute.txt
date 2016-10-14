@@ -1,0 +1,5 @@
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo.BulkImporter\bin\Debug\OtsfImpor.exe.config
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo.BulkImporter\bin\Debug\OtsfImpor.exe
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo.BulkImporter\bin\Debug\OtsfImpor.pdb
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo.BulkImporter\obj\Debug\OtsfImpor.exe
+d:\Projects\Azure\extern\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo.BulkImporter\obj\Debug\OtsfImpor.pdb
