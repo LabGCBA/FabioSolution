@@ -103,13 +103,17 @@ namespace Caba.RedMonitoreo.BulkServer.Controllers
                 At = x.At,
                 State = x.State,
                 Active = x.Active,
+                Max = x.Max,
+                Min = x.Min,
+                EightHour = x.EightHour,
+                FullDay = x.FullDay,
             }));
         }
 
         // http://localhost:2781/api1/sensors/centenario/atmpressure/detail/2016/9/1
         [HttpGet]
         [Route("{stationId}/{sensorId}/detail/{year:int}/{month:int}/{day:int}", Name = "SensorDayDetailStatistic")]
-        public Task<IEnumerable<Models.SensorHourlyState>> DayDetail(string stationId, string sensorId, int year, int month, int day)
+        public Task<IEnumerable<Models.SensorDetailState>> DayDetail(string stationId, string sensorId, int year, int month, int day)
         {
             DateTime dayDate;
             if (!DateTime.TryParseExact($"{year:D4}{month:D2}{day:D2}", "yyyyMMdd", CultureInfo.InvariantCulture,
@@ -118,7 +122,7 @@ namespace Caba.RedMonitoreo.BulkServer.Controllers
                 throw new HttpResponseException(HttpStatusCode.BadRequest);
             }
             var dayStates = sensorStatesPersister.DayStates(stationId, sensorId, dayDate);
-            return Task.FromResult(dayStates.Select(x => new Models.SensorHourlyState
+            return Task.FromResult(dayStates.Select(x => new Models.SensorDetailState
             {
                 At = x.At,
                 State = x.State,

@@ -6,7 +6,7 @@ namespace Caba.RedMonitoreo.Data
 {
 	public interface IStationSensorHourlyStatePersister
 	{
-		IEnumerable<SensorState> DayStates(string stationId, string sensorId, DateTime day);
-		Task Persist(string stationId, string sensorId, IEnumerable<SensorState> states);
+		IEnumerable<SensorStateHourly> DayStates(string stationId, string sensorId, DateTime day);
+		Task Persist(string stationId, string sensorId, IEnumerable<SensorStateHourly> states);
 	}
 }

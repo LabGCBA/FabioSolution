@@ -27,5 +27,16 @@ namespace Caba.RedMonitoreo.BulkServer.Models
 		public DateTimeOffset At { get; set; }
 		public double State { get; set; }
         public bool Active { get; set; }
+        public double Max { get; set; }
+        public double Min { get; set; }
+        public double EightHour { get; set; }
+        public double FullDay { get; set; }
 	}
+
+    public class SensorDetailState
+    {
+        public DateTimeOffset At { get; set; }
+        public double State { get; set; }
+        public bool Active { get; set; }
+    }
 }

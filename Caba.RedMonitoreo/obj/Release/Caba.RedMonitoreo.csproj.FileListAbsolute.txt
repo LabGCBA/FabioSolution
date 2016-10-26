@@ -8,3 +8,8 @@ C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075
 C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Release\Caba.RedMonitoreo.csprojResolveAssemblyReference.cache
 C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Release\Caba.RedMonitoreo.dll
 C:\Users\herna\OneDrive\Documentos\Fabio\Fabio\sliderdev-caba.redmonitoreo-63075b4aff96\src\Caba.RedMonitoreo\obj\Release\Caba.RedMonitoreo.pdb
+C:\Users\ba147\Documents\Visual Studio 2015\Projects\FabioSolution\Caba.RedMonitoreo\bin\Release\Caba.RedMonitoreo.dll
+C:\Users\ba147\Documents\Visual Studio 2015\Projects\FabioSolution\Caba.RedMonitoreo\bin\Release\Caba.RedMonitoreo.pdb
+C:\Users\ba147\Documents\Visual Studio 2015\Projects\FabioSolution\Caba.RedMonitoreo\obj\Release\Caba.RedMonitoreo.csprojResolveAssemblyReference.cache
+C:\Users\ba147\Documents\Visual Studio 2015\Projects\FabioSolution\Caba.RedMonitoreo\obj\Release\Caba.RedMonitoreo.dll
+C:\Users\ba147\Documents\Visual Studio 2015\Projects\FabioSolution\Caba.RedMonitoreo\obj\Release\Caba.RedMonitoreo.pdb
